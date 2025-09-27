@@ -40,8 +40,6 @@ Enemies dynamically adjust their attack patterns and strategies based on player 
 - Packages/ - Unity package dependencies
 - ProjectSettings/ - Unity project settings
 
-  ## Technologies used
-  - Unity 2021 (C#)
-  - AI Pathfinding
-  - Dynamic Difficulty Scaling
-  - Visual Studio Code for scripting
+## Programs used
+- Unity 2021 (C#)
+- Visual Studio Code for scripting
