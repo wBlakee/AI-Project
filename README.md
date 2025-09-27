@@ -3,6 +3,11 @@
 A 2D Unity top-down game showcasing **adaptive enemy AI**.  
 Enemies dynamically adjust their attack patterns and strategies based on player performance, featuring **pathfinding** and **difficulty scaling** to keep gameplay engaging and challenging.
 
+## Demo Videos
+[![Gameplay Demo](https://img.youtube.com/vi/P3HKY66fLFw/0.jpg)](https://youtu.be/P3HKY66fLFw)
+[![AI Showcase](https://img.youtube.com/vi/IjdMgJN653w/0.jpg)](https://youtu.be/IjdMgJN653w)
+
+
 ---
 
 ## Features
