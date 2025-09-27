@@ -30,7 +30,7 @@ Enemies dynamically adjust their attack patterns and strategies based on player 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOURUSERNAME/adaptive-enemy-ai.git
+   git clone https://github.com/YOURUSERNAME/AI-Project.git
    ```
 2. Open the project in Unity Hub.
 3. Press **Play** to run the game in the editor.
@@ -44,10 +44,10 @@ Enemies dynamically adjust their attack patterns and strategies based on player 
 - **Space** - Dash
 
 ## Project Structure
-- Assets/ - game scripts, prefabs, sprite, and scenes
-- Packages/ - Unity package dependencies
-- ProjectSettings/ - Unity project settings
+- **Assets/** – game scripts, prefabs, sprites, and scenes
+- **Packages/** – Unity package dependencies
+- **ProjectSettings/** – Unity project settings
 
 ## Programs used
-- Unity 2021 (C#)
-- Visual Studio Code for scripting
+- **Unity 2021 (C#)**
+- **Visual Studio Code** for scripting
