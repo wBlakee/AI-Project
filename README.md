@@ -8,7 +8,7 @@ Enemies dynamically adjust their attack patterns and strategies based on player 
 *Demo 1: Highlights the dynamic difficulty system. When the player performs well, enemies move faster, deal more damage, and health regeneration slows. If the player struggles, enemies slow down, deal less damage, and health regenerates faster.*
 
 [![AI Showcase](https://img.shields.io/badge/YouTube-Play-red?logo=youtube)](https://youtu.be/IjdMgJN653w)  
-*Demo 2: Full gameplay showcase. Demonstrates dashes, sword attacks, enemy combat interactions, health regeneration, animations, scene transitions, and enemy AI behavior. Features include slimes protecting the mushroom enemy, rushing the player when the mushroom is low on health, projectile attacks from the mushroom, and pathfinding through obstacles in the slime spawning room.*
+*Demo 2: Full gameplay showcase. Demonstrates dashes, sword attacks, enemy combat interactions, health regeneration, animations, scene transitions, and enemy AI behavior. Features include slimes protecting the mushroom enemy, rushing the player when the mushroom is low on health, projectile attacks from the mushroom, and pathfinding around obstacles in the slime spawning room.*
 
 ---
 
